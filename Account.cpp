@@ -21,7 +21,7 @@ class BankAccount
 		void deposite(int x)
 		{
 			balanceAmnt = balanceAmnt + x;
-			cout<<"INR "<<k<<"  deposited to your Acc/ "<<accno;
+			cout<<"INR "<<k<<"  deposited to your Account/ "<<accno;
 		}
 		
 		void withdraw(int x)
